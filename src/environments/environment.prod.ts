@@ -1,8 +1,8 @@
 export const environment = {
     production: true,
-    apiHost: 'https://readonlydemo.vendure.io',
+    apiHost: "https://api.lieferking.info",
     apiPort: 443,
-    shopApiPath: 'shop-api',
-    baseHref: '/',
-    tokenMethod: 'cookie',
+    shopApiPath: "shop-api",
+    baseHref: "/",
+    tokenMethod: "cookie",
 };
